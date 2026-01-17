@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+
+# runtime / volumes
+data/
+dbdata/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
